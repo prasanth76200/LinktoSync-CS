@@ -4,7 +4,7 @@ import Link from "next/link";
 const NavHeader = ({ onClick, state, menuBtnEl }) => (
     <div className="flex items-center justify-between py-5 md:block">
         <Link href="/">
-            <Brand />
+            {/* <Brand /> */}
         </Link>
         <div className="md:hidden">
             <button role="button" aria-label="Open the menu" ref={menuBtnEl || null} className="text-gray-400 hover:text-gray-50"

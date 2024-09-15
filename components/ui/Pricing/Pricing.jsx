@@ -105,11 +105,11 @@ const Pricing = () => {
                                             ))
                                         }
                                     </ul>
-                                    <div className="pt-8">
+                                    {/* <div className="pt-8">
                                         <Button className={`w-full rounded-full text-white ring-offset-2 focus:ring ${item.isMostPop ? "bg-purple-600 hover:bg-purple-500 focus:bg-purple-700 ring-purple-600" : "bg-gray-800 hover:bg-gray-700 ring-gray-800"}`}>
                                             Get Started
                                         </Button>
-                                    </div>
+                                    </div> */}
                                 </div>
                             </div>
                         ))
