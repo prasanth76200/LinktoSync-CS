@@ -1,6 +1,6 @@
 import LayoutEffect from "@/components/LayoutEffect";
 import SectionWrapper from "@/components/SectionWrapper";
-import Button from "../Button";
+// import Button from "../Button";
 
 const Pricing = () => {
 
